@@ -5,7 +5,7 @@ categories:
 - SSL Certificates
 ---
 
-# Getting Started with SSL Certificates
+# Getting Started with SSL Certificates on DNSimple
 
 ### Table of Contents {#toc}
 
@@ -17,6 +17,20 @@ categories:
 An [SSL certificate](/articles/ssl-certificates) is required to enable SSL on your site and build a secure connection between a browser and your server to encrypt sensitive information, such as credit card details or private data.
 
 Getting a new SSL certificate is a multi-step process and involves several parties: the customer (you), DNSimple, and the [certificate authority](/articles/what-is-certificate-authority). For this reason, [this is not a real-time process](/articles/how-long-to-issue-ssl-certificate).
+
+
+## Before you start
+
+## Choose the certificate product
+
+## Choose the certificate names
+
+## Request the certificate
+
+## Validate the certificate request
+
+## Install the certificate
+
 
 ## SSL certificate requirements {#requirements}
 
@@ -36,7 +50,7 @@ Feel free to [contact us](https://dnsimple.com/contact) if you can't find the an
 
 ## Purchasing the SSL certificate {#purchase}
 
-[Purchase](/articles/purchasing-ssl-certificates) the desired SSL certificate from your DNSimple control panel. If the SSL certificate is expiring and it was previously purchased with us, you can [renew](/articles/renewing-ssl-certificates) it and we will default some settings for you.
+[Purchase](/articles/purchasing-ssl-certificates) the desired SSL certificate from your DNSimple control panel. If the SSL certificate is expiring and it was previously purchased with us, you can [renew](/articles/renewing-ssl-certificate) it and we will default some settings for you.
 
 If you need to use a [custom CSR](/articles/what-is-csr), generate it and paste it in the SSL certificate purchase form.
 
